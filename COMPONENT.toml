@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-boot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-boot component"
+description = "systemd boot component"
 upstream = []
 
 [contract]
